@@ -32,4 +32,4 @@ Service address： <https://disqus.com/>.
 After the setup is complete， you need to modify the `disqus_shortname` in `_config.yml`.
 
 # 博客添加文章在 **“_posts”**文件夹下
-# **"CNAME"**文件下 修改配置 
+# **_config.yml**文件下 修改配置 
